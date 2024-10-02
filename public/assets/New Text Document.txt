@@ -1,0 +1,4 @@
+import noPriorityIcon from './assets/No-priority.svg';
+import urgentIcon from './assets/Img - High Priority.svg';
+import highIcon from './assets/Img - Medium Priority.svg';
+import mediumIcon from './assets/Img - Low Priority.svg';
